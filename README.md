@@ -21,28 +21,16 @@ A full-stack Notes App built with the MERN (MongoDB, Express, React, Node.js) st
 - **Authentication:** JWT (JSON Web Token)
 
 📂 Installation & Usage
-Clone the repo:
+-Clone the repo: git clone https://github.com/Khushisamundre29/Note-App.git
 
-bash
-Copy
-Edit
-git clone https://github.com/Khushisamundre29/Note-App.git
 Install dependencies for backend and frontend:
-
-bash
-Copy
-Edit
-cd backend
-npm install
-cd ../frontend
-npm install
-Set up environment variables (e.g., MongoDB URI, JWT secret) for backend.
+-cd backend
+-npm install
+-cd ../frontend
+-npm install
+-Set up environment variables (e.g., MongoDB URI, JWT secret) for backend.
 
 Run backend and frontend servers:
-
-bash
-Copy
-Edit
 # In backend folder
 npm start
 
