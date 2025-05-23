@@ -33,12 +33,12 @@ Install dependencies for backend and frontend:
 - npm install
 - Set up environment variables (e.g., MongoDB URI, JWT secret) for backend.
 
-Run backend and frontend servers:
+## Run backend and frontend servers:
 # In backend folder
-npm start
+- npm start
 
 # In frontend folder
-npm start
-Open your browser and go to http://localhost:3000
+- npm run dev
+- Open your browser and go to http://localhost:3000
 
 
